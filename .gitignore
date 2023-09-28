@@ -1,0 +1,13 @@
+# Simple files
+
+# macOS metadata
+.DS_Store
+
+# tmp process id file
+,pypid
+
+# config files
+*.ini
+
+# pycharm config files
+.idea
